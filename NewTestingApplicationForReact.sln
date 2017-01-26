@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTestingApplicationForReact", "NewTestingApplicationForReact\NewTestingApplicationForReact.csproj", "{0D81975C-5804-43F0-B218-6432A395D27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{CBCA07F9-CF0D-4C69-B4BD-82A7132685CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D81975C-5804-43F0-B218-6432A395D27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D81975C-5804-43F0-B218-6432A395D27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D81975C-5804-43F0-B218-6432A395D27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D81975C-5804-43F0-B218-6432A395D27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCA07F9-CF0D-4C69-B4BD-82A7132685CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCA07F9-CF0D-4C69-B4BD-82A7132685CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCA07F9-CF0D-4C69-B4BD-82A7132685CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCA07F9-CF0D-4C69-B4BD-82A7132685CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
